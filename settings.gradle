@@ -1,2 +1,0 @@
-rootProject.name = "AstraQ"
-include 'AstraQ-Base','AstraQ-Common','AstraQ-Model','AstraQ-Repository','AstraQ-Service'

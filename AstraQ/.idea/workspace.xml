@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e48076e3-d951-4e0f-8e27-6b69bcb87133" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Astra-Q-Back" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.idea/AstraQ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.idea/modules/AstraQ-Base/AstraQ.AstraQ-Base.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.idea/modules/AstraQ-Common/AstraQ.AstraQ-Common.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.idea/modules/AstraQ-Model/AstraQ.AstraQ-Model.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.idea/modules/AstraQ-Repository/AstraQ.AstraQ-Repository.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.idea/modules/AstraQ-Service/AstraQ.AstraQ-Service.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.lock_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.buildship.core/gradle/versions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.buildship.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.apt.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springframework.ide.eclipse.boot.dash.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springframework.ide.eclipse.boot.dash:Docker.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springframework.ide.eclipse.imports.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/bin/main/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/bin/main/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/bin/main/com/qualentraglobal/astraq/AstraQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/bin/main/com/qualentraglobal/astraq/controllers/AuthRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/bin/main/com/qualentraglobal/astraq/controllers/Logincontroller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/bin/main/com/qualentraglobal/astraq/controllers/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/bin/main/com/qualentraglobal/astraq/security/jwt/JwtAuthFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/bin/main/com/qualentraglobal/astraq/security/jwt/JwtService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/bin/main/com/qualentraglobal/astraq/security/jwt/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/src/main/java/com/qualentraglobal/astraq/AstraQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/src/main/java/com/qualentraglobal/astraq/controllers/AuthRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/src/main/java/com/qualentraglobal/astraq/controllers/Logincontroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/src/main/java/com/qualentraglobal/astraq/controllers/Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/src/main/java/com/qualentraglobal/astraq/security/jwt/JwtAuthFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/src/main/java/com/qualentraglobal/astraq/security/jwt/JwtService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/src/main/java/com/qualentraglobal/astraq/security/jwt/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Base/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Common/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Common/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Common/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Common/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Common/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Common/bin/default/com/qualendra/astraq/common/constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Common/bin/main/com/qualentraglobal/astraq/common/Constant$CONTENT_TYPE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Common/bin/main/com/qualentraglobal/astraq/common/Constant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Common/bin/main/com/qualentraglobal/astraq/common/Utilities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Common/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Common/src/main/java/com/qualentraglobal/astraq/common/Constant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Common/src/main/java/com/qualentraglobal/astraq/common/Utilities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/.factorypath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/bin/main/com/qualentraglobal/astraq/dto/SuperAdminDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/bin/main/com/qualentraglobal/astraq/entities/Superadmin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/bin/main/com/qualentraglobal/astraq/jwt/model/AuthRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/dto/SuperAdminDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/ActionMaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/AstraQVersion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/DepartmentMaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/HelpCenterMaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/ModuleMaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/Notifications.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/QuizMaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/RoleMaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/StatusMaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/Superadmin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/TrainingMaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/TrainingStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/UserRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/entities/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Model/src/main/java/com/qualentraglobal/astraq/jwt/model/AuthRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Repository/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Repository/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Repository/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Repository/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Repository/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Repository/bin/default/com/qualentraglobal/astraq/repositories/SuperAdminRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Repository/bin/main/com/qualentraglobal/astraq/repositories/SuperUserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Repository/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Repository/src/main/java/com/qualentraglobal/astraq/repositories/SuperUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Service/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Service/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Service/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Service/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Service/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Service/bin/main/com/qualentraglobal/astraq/services/SuperAdminService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Service/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/AstraQ-Service/src/main/java/com/qualentraglobal/astraq/services/SuperAdminService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/150725/AstraQ_150725.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/180725/AstraQ_180725.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todelete/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todelete/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todelete/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todelete/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todelete/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todelete/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todelete/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todelete/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todelete/src/main/java/com/qualentraglobal/astraq/common/TodeleteApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todelete/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todelete/src/test/java/com/qualentraglobal/astraq/common/TodeleteApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AstraQ" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AstraQ" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AstraQ" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zQq3rLNmuwsufkLtpkHGmCdpxD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.AstraQ [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AstraQ [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AstraQ:AstraQ-Base [:AstraQ-Base:com.qualentraglobal.astraq.AstraQ.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build AstraQ.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;Spring Boot.AstraQ.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Volumes/Workstation/Qualentra Global/AstraQ/AstraQ-Back/AstraQ/AstraQ-Service/src/main/java/com/qualentraglobal/astraq&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AstraQ-Service/src/main/java/com/qualentraglobal/astraq" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AstraQ">
+    <configuration name="AstraQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qualentraglobal.astraq.AstraQ" />
+      <module name="AstraQ.AstraQ-Base.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qualentraglobal.astraq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AstraQ [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AstraQ [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AstraQ" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="AstraQ.AstraQ-Base.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qualentraglobal.astraq.AstraQ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AstraQ [build]" />
+        <item itemvalue="Gradle.AstraQ [clean]" />
+        <item itemvalue="Application.AstraQ" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e48076e3-d951-4e0f-8e27-6b69bcb87133" name="Changes" comment="" />
+      <created>1751673449129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751673449129</updated>
+      <workItem from="1751673450763" duration="583000" />
+      <workItem from="1751674206136" duration="281000" />
+      <workItem from="1751674494613" duration="15000" />
+      <workItem from="1752469284997" duration="681000" />
+      <workItem from="1752592759445" duration="4153000" />
+      <workItem from="1752679597133" duration="7560000" />
+      <workItem from="1752908416334" duration="2833000" />
+      <workItem from="1753118133206" duration="1511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AstraQ-Base/src/main/java/com/qualentraglobal/astraq/controllers/Logincontroller.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AstraQ-Base/src/main/java/com/qualentraglobal/astraq/controllers/Logincontroller.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AstraQ-Base/src/main/java/com/qualentraglobal/astraq/controllers/Logincontroller.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AstraQ-Base/src/main/java/com/qualentraglobal/astraq/controllers/Logincontroller.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/AstraQ-Repository/src/main/java/com/qualentraglobal/astraq/repositories/IUserRepository.java</url>
+          <line>13</line>
+          <properties class="com.qualentraglobal.astraq.repositories.IUserRepository" method="login">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
